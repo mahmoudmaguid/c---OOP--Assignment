@@ -1,0 +1,11 @@
+C:\Users\mamou\OneDrive\Desktop\c#\c#Assignment-2\bin\Debug\netcoreapp3.1\c#Assignment-2.exe
+C:\Users\mamou\OneDrive\Desktop\c#\c#Assignment-2\bin\Debug\netcoreapp3.1\c#Assignment-2.deps.json
+C:\Users\mamou\OneDrive\Desktop\c#\c#Assignment-2\bin\Debug\netcoreapp3.1\c#Assignment-2.runtimeconfig.json
+C:\Users\mamou\OneDrive\Desktop\c#\c#Assignment-2\bin\Debug\netcoreapp3.1\c#Assignment-2.runtimeconfig.dev.json
+C:\Users\mamou\OneDrive\Desktop\c#\c#Assignment-2\bin\Debug\netcoreapp3.1\c#Assignment-2.dll
+C:\Users\mamou\OneDrive\Desktop\c#\c#Assignment-2\bin\Debug\netcoreapp3.1\c#Assignment-2.pdb
+C:\Users\mamou\OneDrive\Desktop\c#\c#Assignment-2\obj\Debug\netcoreapp3.1\c#Assignment-2.csprojAssemblyReference.cache
+C:\Users\mamou\OneDrive\Desktop\c#\c#Assignment-2\obj\Debug\netcoreapp3.1\c#Assignment-2.AssemblyInfoInputs.cache
+C:\Users\mamou\OneDrive\Desktop\c#\c#Assignment-2\obj\Debug\netcoreapp3.1\c#Assignment-2.AssemblyInfo.cs
+C:\Users\mamou\OneDrive\Desktop\c#\c#Assignment-2\obj\Debug\netcoreapp3.1\c#Assignment-2.dll
+C:\Users\mamou\OneDrive\Desktop\c#\c#Assignment-2\obj\Debug\netcoreapp3.1\c#Assignment-2.pdb
