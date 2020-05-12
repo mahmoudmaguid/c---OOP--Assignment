@@ -7,7 +7,7 @@ namespace Polymorphism
     class Buyer
     {
         private string buyername;
-        private string password;
+        private string price;
         public string Mybuyername
         {
             get
